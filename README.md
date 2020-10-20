@@ -3,7 +3,7 @@
 
 ## Quick start
 
-- Clone: https://github.com/nhanhuynh-agilityio/recoil-state-management
+- Clone: https://github.com/bayba-website/recoil-state-management
 
 - Installing dependencies:
 
